@@ -22,3 +22,7 @@ height:160px;
 .amspeed {
     float:left;
 }
+canvas {
+    background: brown;
+    border-radius: 40px;
+}
