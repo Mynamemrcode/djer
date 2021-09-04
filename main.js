@@ -1,8 +1,8 @@
 music1 = "";
 music2 = "";
 function preload() {
-music1 = loadSound("FearisUsless.mp3");
-music2 = loadSound("FearisUsless.mp3");
+music1 = loadSound("HappiestMemory.wav");
+music2 = loadSound("Nerve-ATripToPhoenix(1).mp3.mp3");
 } 
 function setup() {
     canvas = createCanvas(800,500);
