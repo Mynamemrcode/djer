@@ -33,7 +33,7 @@ function draw() {
 
         if(leftsongstat == false) {
             music1.play();
-            document.getElementById("holder").innerHTML = "Song 1 is playing";
+            document.getElementById("holder").innerHTML = "Happiest Memory (Custom)";
         }
     }
 }
