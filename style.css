@@ -12,17 +12,18 @@ body {
     font-size: xx-large;
 
 }
-.volume {
+.song2 {
     float:right;
 }
 #spekr {
 width:259px;
 height:160px;
 }
-.amspeed {
+.song1 {
     float:left;
 }
 canvas {
     background: brown;
     border-radius: 40px;
+    margin-top: 2in;
 }
